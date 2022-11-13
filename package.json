@@ -1,0 +1,16 @@
+{
+  "name": "PDF-Leclerc",
+  "version": "0.0.1",
+  "description": "Génération catalogue LECLERC en PDF",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "jspdf": "^2.5.1"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "^4.0.3"
+  }
+}
